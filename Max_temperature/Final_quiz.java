@@ -1,18 +1,12 @@
-
 /**
- * Write a description of final_quiz here.
- * 
- * @author (your name) 
- * @version (a version number or a date)
+ * Created by Ghanasiyaa on 21/11/2020.
  */
+
 
 import edu.duke.*;
 import org.apache.commons.csv.*;
 import java.io.*;
 
-/**
- * Created by Ghanasiyaa on 21/11/2020.
- */
 
 
 public class Final_quiz {
